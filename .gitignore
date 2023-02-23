@@ -3,6 +3,9 @@
 /out-tsc
 .grunt
 
+# editors
+.idea/*
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
